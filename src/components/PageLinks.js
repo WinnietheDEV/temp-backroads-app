@@ -1,4 +1,3 @@
-import React from "react";
 import { pageLinks } from "../data";
 
 const PageLinks = ({ parentClass, itemClass }) => {
